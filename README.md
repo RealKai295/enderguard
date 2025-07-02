@@ -35,4 +35,3 @@ Enhance survival servers by restricting the hoarding of rare resources.
 
   3. (Optional) Open the config.yml file to define which items are blocked.
 
-Enjoy :)
