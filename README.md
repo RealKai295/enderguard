@@ -34,3 +34,5 @@ Enhance survival servers by restricting the hoarding of rare resources.
   2. Restart your server.
 
   3. (Optional) Open the config.yml file to define which items are blocked.
+
+Enjoy :)
