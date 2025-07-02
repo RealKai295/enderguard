@@ -29,8 +29,8 @@ Enhance survival servers by restricting the hoarding of rare resources.
 
 **Installation Instructions:**
 
-Place the plugin .jar file into your server’s /plugins directory.
+  1. Place the plugin .jar file into your server’s /plugins directory.
 
-Restart your server.
+  2. Restart your server.
 
-(Optional) Open the config.yml file to define which items are blocked.
+  3. (Optional) Open the config.yml file to define which items are blocked.
