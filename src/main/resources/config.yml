@@ -1,0 +1,13 @@
+# ----------------------------------------------------- #
+# EnderGuard Configuration
+# ----------------------------------------------------- #
+
+# A list of materials that are blocked from being placed in an Ender Chest.
+blocked-items:
+  - "MACE"
+  - "DIAMOND_SWORD"
+  - "ELYTRA"
+
+# The message sent to a player when they try to store a blocked item.
+# Use '&' for color codes.
+blocked-item-message: "&7[&3EnderGuard&7] &cYou cannot store this item in your Ender Chest."

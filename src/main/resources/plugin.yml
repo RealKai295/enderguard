@@ -1,0 +1,15 @@
+name: EnderGuard
+version: 1.0.2
+main: com.kai295.enderguard.EnderGuard
+api-version: '1.21'
+author: Kai295
+description: Prevents specified items from being placed in Ender Chests.
+commands:
+  enderguard:
+    description: Main command for the EnderGuard plugin.
+    usage: /<command> reload
+    aliases: [eg]
+permissions:
+  enderguard.reload:
+    description: Allows the user to reload the EnderGuard configuration.
+    default: op
